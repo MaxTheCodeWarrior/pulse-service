@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "maxpulse.value",
+    "type": "java.lang.String",
+    "description": "A description for 'maxpulse.value'"
+  },
+  {
+    "name": "minpulse.value",
+    "type": "java.lang.String",
+    "description": "A description for 'minpulse.value'"
+  }
+]}
